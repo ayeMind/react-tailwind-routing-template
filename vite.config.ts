@@ -12,6 +12,7 @@ export default defineConfig({
       "api": "/src/shared/api",
       "pages": "/src/pages",
       "types": "/src/shared/types",
+      "app": "/src/app",
     }
   }
 })

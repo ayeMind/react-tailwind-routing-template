@@ -21,6 +21,7 @@
       "api*/": ["api/*"],
       "pages/*": ["pages/*"],
       "types/*": ["types/*"],
+      "app/*": ["app/*"],
     },
 
     /* Linting */
