@@ -16,9 +16,9 @@
     "baseUrl": "src",
     "paths": {
       "components/*": ["components/*"],
-      "hooks/*": ["hooks/*"],
-      "ui/*": ["ui/*"],
-      "api*/": ["api/*"],
+      "hooks/*": ["shared/hooks/*"],
+      "ui/*": ["shared/ui/*"],
+      "api*/": ["shared/api/*"],
       "pages/*": ["pages/*"],
       "types/*": ["types/*"],
       "app/*": ["app/*"],
